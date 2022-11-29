@@ -49,7 +49,7 @@ async def counting(ctx): #also I don't use pickle here because I don't really li
     counter.write(str(storedcount) + "\n")
     ctx.send(counter)
     counter.close()
-#so to avoid commands that are pointless heres some stuff so you don't have to read the discord.py docs (they suck)
+#so heres some stuff that I didn't have anywhere else to put, so you don't have to read the discord.py docs (they suck)
 #ctx.author.id can be used to change how a command responds depending on the author. like " if ctx.author.id == 12345" could be used to make a command only work for that id
 #in a similar vein as above ctx.channel.id can be used to check channel ids, ctx.message.guild checks the server (or if the ctx even is a server), ctx.message.content checks the actual message
 #you can also weave changes in status very easily into other commands such as adding the line "await bot.change_presence(activity=discord.Game(name="heartbroken </3"))" to an existing command
