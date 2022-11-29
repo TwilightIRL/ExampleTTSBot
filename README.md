@@ -19,3 +19,4 @@ As for way I made this in the first place:
 
 3.Discords default tts services are really awful and they don't really catch any flack for that
 
+(also sorry for any spelling or grammatical errors throughout this, I threw it together from my bots code in like an hours lmao)
