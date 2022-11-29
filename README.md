@@ -20,3 +20,5 @@ As for way I made this in the first place:
 3.Discords default tts services are really awful and they don't really catch any flack for that
 
 (also sorry for any spelling or grammatical errors throughout this, I threw it together from my bots code in like an hour lmao)
+
+(also if you somehow ended up here and are a terf/transphobe/truscum/racist/etc kindly fuck off)
